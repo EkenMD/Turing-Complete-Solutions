@@ -5,7 +5,7 @@ I haven't finished the game yet so there will be new solutions coming.
 I should also mention that these screenshots are old even while writing this, but it'll atleast give you a direction of where you should start.
 
 
-OBS--Please do NOT copy this as your solution, use it as help if you're stuck or simply compare our circuits.
+OBS--Please do NOT copy this as your solution, use it as help if you're stuck or simply compare our circuits.                                                                   
 OBS--I will not update this repository after updates etc.  
 
 TL;DR: My solutions to a game called "Turing Complete" on steam. Do NOT copy solutions & I will probably not update this repository after future updates.
