@@ -59,3 +59,25 @@ TL;DR: My solutions to a game called "Turing Complete" on steam. Do NOT copy sol
 ![image](https://user-images.githubusercontent.com/93472160/147391970-31c2a01a-7448-4f79-ad4c-f15043fd7343.png)
 
 "XNOR GATE"
+
+![image](https://user-images.githubusercontent.com/93472160/147392073-b74a5b7a-68ef-4ad9-ac63-4d61cc7d9283.png)
+
+*You've now compelted the stage "Basic logic"
+
+"ODD NUMBER OFF SIGNALS"
+
+![image](https://user-images.githubusercontent.com/93472160/147392093-3241a9ce-9f0b-473a-b5d2-b0127ef0a6d5.png)
+
+"DOUBLE TROUBLE"
+
+![image](https://user-images.githubusercontent.com/93472160/147392099-33f12762-5875-4776-b378-5db4824564ff.png)
+
+"BINARY RACER"
+This one should be pretty simple, it's basically simple math, you'll see for yourself.
+
+"CIRCULAR DEPENDENCY"
+
+
+
+
+
