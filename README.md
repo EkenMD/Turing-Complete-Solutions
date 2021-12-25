@@ -1,7 +1,7 @@
 # Turing-Complete-Solutions
 
 These are all my solutions to a game called "Turing Compelete" on steam,you should really check it out if you're interested in computers.
-I haven't finished the game yet so there will new solutions coming.
+I haven't finished the game yet so there will be new solutions coming.
 I should also mention that these screenshots are old even while writing this, but it'll atleast give you a direction of where you should start.
 
 
