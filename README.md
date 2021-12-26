@@ -198,6 +198,12 @@ There's no picture needed here.
 
 "IMMEDIATE VALUES"
 
+I already added "constant loading" to the circuit during the "PROGRAM" level(The one before this!^^), so nothing new here.
+
+"TURING COMPLETE"
+
+
+
 
 
 
