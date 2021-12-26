@@ -62,7 +62,7 @@ TL;DR: My solutions to a game called "Turing Complete" on steam. Do NOT copy sol
 
 ![image](https://user-images.githubusercontent.com/93472160/147392073-b74a5b7a-68ef-4ad9-ac63-4d61cc7d9283.png)
 
-*You've now compelted the stage "Basic logic"
+*You've now completed the stage "Basic logic"
 
 "ODD NUMBER OFF SIGNALS"
 
@@ -76,6 +76,34 @@ TL;DR: My solutions to a game called "Turing Complete" on steam. Do NOT copy sol
 This one should be pretty simple, it's basically simple math, you'll see for yourself.
 
 "CIRCULAR DEPENDENCY"
+
+![image](https://user-images.githubusercontent.com/93472160/147404201-ba0396fb-35f3-4ca4-bbcd-06854be16a8e.png)
+
+"COUNTING SIGNALS"
+
+![image](https://user-images.githubusercontent.com/93472160/147404300-68291f06-86d7-43d5-b26d-3b290dd17515.png)
+
+"HALF ADDER"
+
+![image](https://user-images.githubusercontent.com/93472160/147404311-b095bed9-041d-442c-948b-95ed44a14be2.png)
+
+"DOUBLE THE NUMBER"
+
+![image](https://user-images.githubusercontent.com/93472160/147404319-5162cb80-61b1-4915-b7d6-ef62986c6c1b.png)
+
+"FULL ADDER"
+
+![image](https://user-images.githubusercontent.com/93472160/147404351-d2e3ab77-5fb0-4530-9f68-e04b264845d3.png)
+
+*This will get you the achievement:"Complete the full adder level using only 4 blue components".
+
+"TANGLED GATES"
+
+![image](https://user-images.githubusercontent.com/93472160/147404391-bf5f2978-85e6-40c9-b2a4-dd63f8c3d382.png)
+
+
+
+
 
 
 
