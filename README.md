@@ -202,6 +202,10 @@ I already added "constant loading" to the circuit during the "PROGRAM" level(The
 
 "TURING COMPLETE"
 
+![image](https://user-images.githubusercontent.com/93472160/147415420-a86576d8-e836-4312-9041-7fd6f91c625a.png)
+
+*This will get you the achievement:"Build a turing complete computer".
+
 
 
 
