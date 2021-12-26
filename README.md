@@ -192,6 +192,13 @@ There's no picture needed here.
 
 *This will get you the achievement:"Complete the level called conditions using only 6 blue components".
 
+"PROGRAM"
+
+![image](https://user-images.githubusercontent.com/93472160/147415250-51d43920-4476-4085-b9d9-99f7e5c8a4b9.png)
+
+"IMMEDIATE VALUES"
+
+
 
 
 
