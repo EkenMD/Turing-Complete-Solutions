@@ -162,6 +162,8 @@ There's no picture needed here.
 
 ![image](https://user-images.githubusercontent.com/93472160/147404922-d57071dc-eb4a-49de-b2f4-71d00a4fbd9e.png)
 
+*You've now finished the stages:"Arithmetic" and "Memory".
+
 "LOGIC ENGINE"
 
 ![image](https://user-images.githubusercontent.com/93472160/147404951-5803f02d-d1a7-4d44-a696-79cae70f381a.png)
